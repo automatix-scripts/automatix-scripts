@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Witaj w moim profilu GitHub!
 
-<!--
-**automatix-scripts/automatix-scripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**automatix-scripts/automatix-scripts** to ✨ _specjalne_ ✨ repozytorium, ponieważ ten plik `README.md` pojawia się w Twoim profilu GitHub.
 
-Here are some ideas to get you started:
+## 🚀 O mnie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jestem doświadczonym **mobile developerem** specjalizującym się w:
+- **Android** (Kotlin, Jetpack Compose)
+- **iOS** (Swift, SwiftUI)
+- Tworzeniu **webservice'ów** i **WebAPI** (Python Flask/Django, Node.js)
+- Integracjach systemowych (CLI tools, automatyzacja)
+
+## 🔭 Aktualne projekty
+
+- **FoodDeliveryApp** - natywna aplikacja mobilna dla restauracji (Android/iOS)
+- **AutoDeploy CLI** - narzędzie do automatyzacji deploy'u aplikacji
+- **PaymentGatewayAPI** - mikroserwis do integracji płatności
+
+## 🌱 Aktualnie uczę się
+
+- **KMP (Kotlin Multiplatform)** dla współdzielonego kodu między platformami
+- **GoLang** dla wysokowydajnych mikroserwisów
+- **AWS Serverless** (Lambda, API Gateway)
+
+## 💬 Zapytaj mnie o
+
+- Najlepsze praktyki w rozwoju aplikacji mobilnych
+- Jak zoptymalizować backend pod kątem aplikacji mobilnych
+- Integrację systemów legacy z nowoczesnymi rozwiązaniami
+
+## 📫 Jak się ze mną skontaktować
+
+- Email: tomekslawczyk@gmail.com
+- Twitter: [@automatix_dev](https://twitter.com/automatix_dev)
+
+## ⚡ Ciekawostka
+
+Po godzinach rozwijam open-source'owego bota do automatyzacji testów UI/UX 🚀
+
+## 🛠 Technologie
+
+```python
+{
+  "mobile": ["Kotlin", "Swift", "Flutter", "React Native"],
+  "backend": ["Python", "Django", "Flask", "Node.js", "FastAPI"],
+  "devops": ["Docker", "Kubernetes", "GitHub Actions", "AWS"],
+  "tools": ["Postman", "Firebase", "Jenkins", "Jira"]
+}
+```
