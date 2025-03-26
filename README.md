@@ -1,7 +1,5 @@
 # 👋 Witaj w moim profilu GitHub!
 
-**automatix-scripts/automatix-scripts** to ✨ _specjalne_ ✨ repozytorium, ponieważ ten plik `README.md` pojawia się w Twoim profilu GitHub.
-
 ## 🚀 O mnie
 
 Jestem doświadczonym **mobile developerem** specjalizującym się w:
