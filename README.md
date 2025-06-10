@@ -28,7 +28,7 @@ Jestem doświadczonym **mobile developerem** specjalizującym się w:
 
 ## 📫 Jak się ze mną skontaktować
 
-- Email: tomekslawczyk@gmail.com
+- Email: donsewicz@gmail.com
 - Twitter: [@automatix_dev](https://twitter.com/automatix_dev)
 
 ## ⚡ Ciekawostka
