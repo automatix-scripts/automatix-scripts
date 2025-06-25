@@ -2,7 +2,7 @@
 
 ## 🚀 O mnie
 
-Jesteśmy doświadczonym zespołem **programistów** specjalizującym się w:
+Jesteśm doświadczonym **programistą** specjalizującym się w:
 - **Android** (Kotlin, Jetpack Compose)
 - **iOS** (Swift, SwiftUI)
 - Tworzeniu **webservice'ów** i **WebAPI** (Python Flask/Django, Node.js)
