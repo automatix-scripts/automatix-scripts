@@ -2,7 +2,7 @@
 
 ## 🚀 O mnie
 
-Jestem doświadczonym **mobile developerem** specjalizującym się w:
+Jesteśmy doświadczonym zespołem **programistów** specjalizującym się w:
 - **Android** (Kotlin, Jetpack Compose)
 - **iOS** (Swift, SwiftUI)
 - Tworzeniu **webservice'ów** i **WebAPI** (Python Flask/Django, Node.js)
