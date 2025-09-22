@@ -45,4 +45,5 @@ Po godzinach rozwijam open-source'owego bota do automatyzacji testów UI/UX 🚀
   "tools": ["Postman", "Firebase", "Jenkins", "Jira"]
 }
 ```
-![My Image](https://wezcloud.com/assets/readme.md.png)
+![My Image](https://www.wezcloud.com/assets/readme.md.png)
+
