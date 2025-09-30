@@ -1,5 +1,3 @@
-# 👋 Witaj w moim profilu GitHub!
-
 ## 🚀Architekturze systemów pod kątem efektu wirusowego i skalowalności.
 Technicznym SEO i ASO jako integralnej części cyklu życia produktu.
 Zajmuję się implementacją zaawansowanych mechanizmów anty-sybil i ochronie przed zautomatyzowanymi atakami na reputację.
