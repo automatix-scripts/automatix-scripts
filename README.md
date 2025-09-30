@@ -1,17 +1,18 @@
 # 👋 Witaj w moim profilu GitHub!
 
-## 🚀 O mnie
+## 🚀Architekturze systemów pod kątem efektu wirusowego i skalowalności.
+Technicznym SEO i ASO jako integralnej części cyklu życia produktu.
+Zajmuję się implementacją zaawansowanych mechanizmów anty-sybil i ochronie przed zautomatyzowanymi atakami na reputację.
+Strategiach monetyzacji opartych na etycznym wykorzystaniu danych.
 
-Jesteśm doświadczonym **programistą** specjalizującym się w:
-- **Android** (Kotlin, Jetpack Compose)
-- **iOS** (Swift, SwiftUI)
-- Tworzeniu **webservice'ów** i **WebAPI** (Python Flask/Django, Node.js)
-- Integracjach systemowych (CLI tools, automatyzacja)
+Specjalizuję się w architekturze systemów, gdzie kod jest narzędziem do osiągania celów biznesowych:
+**Mobile-first (Android/iOS)** Budowa natywnych doświadczeń zoptymalizowanych pod kątem retencji i konwersji (ASO/CRO).
+**Backend & WebAPI** Tworzenie skalowalnych ekosystemów do wymiany danych z naciskiem na bezpieczeństwo i niski ślad cyfrowy.
+**Inżynieria Danych i Automatyzacja** Projektowanie przepływów danych i narzędzi CLI do automatyzacji złożonych procesów analitycznych i wdrożeniowych.
 
 ## 🔭 Aktualne projekty
-
-- **FoodDeliveryApp** - natywna aplikacja mobilna dla restauracji (Android/iOS)
-- **AutoDeploy CLI** - narzędzie do automatyzacji deploy'u aplikacji
+- **GhostDeploy CLI** Framework do zautomatyzowanych wdrożeń z wbudowanym audytem bezpieczeństwa zależności i mechanizmem canary deployment.
+- **AutoDeploy CLI** - narzędzie do automatyzacji deploy'u reputacji GoogleReviews, Facebook. LinkedIn, X.com, TrustPiolot, CompanyBrands 
 - **PaymentGatewayAPI** - mikroserwis do integracji płatności
 
 ## 🌱 Aktualnie uczę się
@@ -28,12 +29,12 @@ Jesteśm doświadczonym **programistą** specjalizującym się w:
 
 ## 📫 Jak się ze mną skontaktować
 
-- Email: donsewicz@gmail.com
+- Email: automatix.dev@gmail.com, donsewicz@gmail.com
 - Twitter: [@automatix_dev](https://twitter.com/automatix_dev)
 
 ## ⚡ Ciekawostka
 
-Po godzinach rozwijam open-source'owego bota do automatyzacji testów UI/UX 🚀
+Po godzinach rozwijamy open-source'owego bota do automatyzacji publicznej percepcji marki i produktu OSINT 🚀
 
 ## 🛠 Technologie
 
